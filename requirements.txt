@@ -1,5 +1,6 @@
 librosa
 numpy
+ttkthemes
 matplotlib
 IPython
 
