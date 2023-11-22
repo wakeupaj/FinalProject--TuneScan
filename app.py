@@ -195,8 +195,8 @@ def window():
                 youtube_url_entry.insert(0, "Enter YouTube URL")
                 youtube_url_entry.config(fg='grey')
         
-            youtube_url_entry.bind('<FocusIn>', on_entry_click)
-            youtube_url_entry.bind('<FocusOut>', on_focusout)
+        youtube_url_entry.bind('<FocusIn>', on_entry_click)
+        youtube_url_entry.bind('<FocusOut>', on_focusout)
 
         gui.mainloop()
 
