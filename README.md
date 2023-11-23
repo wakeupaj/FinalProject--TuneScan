@@ -27,7 +27,8 @@ pip install -r requirements.txt
 ## Usage
 
 To start the application, run the following command in your terminal:
-```py
+```
+source venv/bin/activate
 python app.py
 ```
 
