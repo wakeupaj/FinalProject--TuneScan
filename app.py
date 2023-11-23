@@ -20,7 +20,7 @@ def main():
 
 
 def window():
-    # create gui element, assign it to variable 'gui'
+    # create gui element, assign it to variable 'gui'.
     gui = tk.Tk()
 
     # set window dimensions, locks it from being fullscreened or changed, and set window title
