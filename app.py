@@ -190,7 +190,6 @@ def window():
                 ("MP3 Files", "*.mp3"),
                 ("M4A Files", "*.m4a"),
                 ("FLAC Files", "*.flac"),
-                ("M4A Files", "*.m4a"),
                 ("OGG Files", "*.ogg"),
                 ("AAC Files", "*.aac"),
             ]
