@@ -3,7 +3,7 @@
 
 TuneScan is a Python application that allows users to detect the musical key of audio files. It provides a simple and user-friendly interface for uploading audio files or YouTube URLs to analyze the audio and display the detected key.
 
-###[Showcase Video](https://youtu.be/mLyOkjkli5o?si=p7UUAGBgYh_1dmqa)
+[###Showcase Video](https://youtu.be/mLyOkjkli5o?si=p7UUAGBgYh_1dmqa)
 
 ## Features
 
